@@ -1,2 +1,3 @@
 slides : https://www.canva.com/design/DAGjUaV9IZ0/UuKHKudcCsLMP2HTxScbKg/edit
 github : https://github.com/dowelani/capstone
+trello : https://trello.com/b/IYD1ovJt/capstone
